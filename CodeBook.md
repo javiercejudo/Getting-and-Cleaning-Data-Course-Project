@@ -70,17 +70,17 @@ These are the variables by which all others are averaged. There are 30 subjects 
  - Time domain gravity acceleration magnitude standard deviation:
   - tGravityAccMagStd
  - Time domain body jerk magnitude mean:
-  - tBodyBodyAccJerkMagMean
+  - tBodyAccJerkMagMean
  - Time domain body jerk magnitude standard deviation:
   - tBodyAccJerkMagStd
  - Time domain gyroscope magnitude mean:
-  - tBodyBodyGyroMagMean
+  - tBodyGyroMagMean
  - Time domain gyroscope magnitude standard deviation:
   - tBodyGyroMagStd
  - Time domain gyroscope jerk magnitude mean:
-  - tBodyBodyGyroJerkMagMean
+  - tBodyGyroJerkMagMean
  - Time domain gyroscope jerk magnitude standard deviation:
-  - tBodyBodyGyroJerkMagStd
+  - tBodyGyroJerkMagStd
  - Frequency domain body acceleration mean along axis X, Y, and Z:
   - fBodyAccMeanX
   - fBodyAccMeanY
@@ -112,11 +112,11 @@ These are the variables by which all others are averaged. There are 30 subjects 
  - Frequency domain body jerk magnitude mean:
   - fBodyBodyAccJerkMagMean
  - Frequency domain body jerk magnitude standard deviation:
-  - fBodyAccJerkMagStd
+  - fBodyBodyAccJerkMagStd
  - Frequency domain gyroscope magnitude mean:
   - fBodyBodyGyroMagMean
  - Frequency domain gyroscope magnitude standard deviation:
-  - fBodyGyroMagStd
+  - fBodyBodyGyroMagStd
  - Frequency domain gyroscope jerk magnitude mean:
   - fBodyBodyGyroJerkMagMean
  - Frequency domain gyroscope jerk magnitude standard deviation:
